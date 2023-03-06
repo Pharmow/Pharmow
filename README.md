@@ -3,6 +3,7 @@
 
 
 ![200w](https://user-images.githubusercontent.com/126022065/223065145-d989819f-116c-41ff-a6d6-88de9988c663.gif)
+![devOps-cloud-native](https://user-images.githubusercontent.com/126022065/223065942-56301e09-e88e-451f-b691-435e3daec3a6.gif)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Pharmow)](https://github.com/Pharmow/github-profile-trophy)
