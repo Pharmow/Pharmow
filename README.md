@@ -1,5 +1,5 @@
 ### Hi there 👋 welcome to my profile page
-
+🔭 I’m currently working on different DevOps tools and CI/CD processes
 <!--
 **Pharmow/Pharmow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
