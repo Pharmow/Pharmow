@@ -1,3 +1,6 @@
+
+![Screenshot 2023-01-14 100247](https://user-images.githubusercontent.com/126022065/223059506-49e91a6e-b0a7-47eb-9fcb-d4753869059e.png)
+
 ### Hi there 👋 welcome to my profile page
 🔭 I’m currently working on different DevOps tools and CI/CD processes
 <!--
