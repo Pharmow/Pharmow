@@ -7,6 +7,7 @@
 
 
 
+![DEVOPS](https://user-images.githubusercontent.com/126022065/224186231-b3047c77-bba9-492f-9956-c7f75e7b8ff0.gif)
 
 
  ![devOps-cloud-native](https://user-images.githubusercontent.com/126022065/223065942-56301e09-e88e-451f-b691-435e3daec3a6.gif)
