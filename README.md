@@ -17,7 +17,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Pharmow)](https://github.com/Pharmow/github-profile-trophy)
 
 
-🔭 I’m currently working on different DevOps tools and CI/CD processes
+## 🔭 I’m currently working on different DevOps tools and CI/CD processes
 
 ![Animation-1](https://user-images.githubusercontent.com/126022065/223205902-349ed1d1-24f3-4886-a8a2-50250ba1ca63.gif)
 
